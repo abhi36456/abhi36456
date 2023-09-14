@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Shah</h1>
-<h3 align="center">Technical Project/Product Manager | Certified ScrumMaster® (CSM®) | Mobile App Developer | Managing & Delivering outstanding IT Products | Canada</h3>
+<h3 align="center">Technical Project/Product Manager | Certified ScrumMaster® (CSM®) | Mobile App Developer | Managing & Delivering outstanding IT Products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi36456&label=Profile%20views&color=0e75b6&style=flat" alt="abhi36456" /> </p>
 
