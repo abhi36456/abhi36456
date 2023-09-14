@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PMP-PMI**
 
-- 💬 Ask me about **Project management, Scrum, Mobile apps, Websites, UI/UX or any other tech stuff**
+- 💬 Ask me about **Agile Project management,IT Products,Scrum,Mobile apps,Websites,CMS,CRM,UI/UX or any other tech stuff...**
 
 - 📫 How to reach me **abhishah3645@gmail.com**
 
