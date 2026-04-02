@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhi Shah</h1>
 <h3 align="center">Technical Project/Product Manager | (CSM®) | Mobile App Developer | Delivering outstanding Products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi36456&label=Profile%20views&color=0e75b6&style=flat" alt="abhi36456" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi36456" alt="abhi36456" /></a> </p>
 
-- 🌱 I’m currently learning **PMP-PMI**
 
 - 💬 Ask me about **Agile Project management,IT Products,Scrum,Mobile apps,Websites,CMS,CRM,UI/UX or any other tech stuff...**
 
