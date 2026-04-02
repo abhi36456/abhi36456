@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Shah</h1>
-<h3 align="center">Technical Project/Product Manager | (CSM®) | Native Mobile App Developer | Delivering outstanding Products</h3>
+<h3 align="center">Technical Project/Product Manager | (CSM®) | Mobile App Developer | Delivering outstanding Products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi36456&label=Profile%20views&color=0e75b6&style=flat" alt="abhi36456" /> </p>
 
