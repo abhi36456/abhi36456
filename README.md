@@ -8,7 +8,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishah3645/](https://www.linkedin.com/in/abhishah3645/)
 
-- ⚡ Fun fact **I've successfully managed more projects than I've had cups of coffee in a day! ☕💼 #ProjectManagerExtraordinaire"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
